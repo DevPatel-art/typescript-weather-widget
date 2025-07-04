@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES2016",
+    "module": "system",
+    "outFile": "script.js",
+    "strict": true
+  },
+  "include": ["script.ts"]
+}
